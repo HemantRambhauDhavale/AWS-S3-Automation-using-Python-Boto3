@@ -63,3 +63,17 @@
   * DevOps automation concepts
   * Real-world debugging and troubleshooting
 * Improved practical understanding of cloud infrastructure automation workflows.
+
+## Description
+
+* Developed a Python-based AWS cloud automation tool using Boto3 SDK to automate S3 bucket creation, bucket listing, and file uploads.
+
+* Automated 3+ AWS S3 operations, reducing repetitive manual cloud management tasks and improving workflow efficiency through reusable Python automation scripts.
+
+* Integrated AWS S3 APIs using Boto3 client and implemented automated workflows for cloud storage resource management.
+
+* Debugged and resolved real-world automation challenges including AWS API parameter validation, variable scope issues, file handling errors, function argument mismatches, and exception handling.
+
+* Gained hands-on experience in AWS Cloud, Python scripting, API integration, cloud automation, troubleshooting, and DevOps workflows through practical implementation.
+
+
