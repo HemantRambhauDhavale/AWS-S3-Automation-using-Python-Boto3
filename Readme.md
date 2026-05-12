@@ -1,4 +1,4 @@
-# ⭐ STAR Approach – AWS S3 Automation Tool using Python Boto3
+# AWS S3 Automation Tool using Python Boto3
 
 ## 🟦 Situation
 - Manual creation of AWS S3 buckets and file uploads was repetitive and time-consuming.
